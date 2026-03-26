@@ -35,6 +35,7 @@ Postuler à l'offre d'emploi en construisant ces livrables :
     <img src="Images/besoins-metier-preview.png" width="350">
   </a>
   </a>
+    <p><strong>Veille métier : </stong></p>
     <a href="Livrables/veille-metier.pdf" title="Voir veille métier">
     <img src="Images/veille-preview.png" width="350">
   </a>  
