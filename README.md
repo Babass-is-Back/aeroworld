@@ -38,8 +38,8 @@ Postuler à l'offre d'emploi en construisant ces livrables :
 </p>
 
 <figure>
+  <figcaption><strong>Portfolio professionnel</strong></figcaption>
   <a href="https://bastienleblanc.fr">
     <img src="Images/portfolio-preview.png" width="350" alt="Portfolio">
   </a>
-  <figcaption><strong>Portfolio professionnel</strong></figcaption>
 </figure>
