@@ -1,1 +1,38 @@
-# aeroworld
+<p align="center">
+<img width="350" alt="logo-le grand marche" src="Images/aeroworld-large.png" />
+</p>
+
+# Aeroworld
+## Projet 13 - OpenClassRooms - Data Analyst
+
+### Contexte :  
+Vous êtes data analyst dans un cabinet de consultants spécialisé dans la transformation digitale des entreprises. 
+Le cabinet compte déjà plus de 150 salariés et est en plein développement.
+Chaque année avant le 1er mars, les entreprises d’au moins 50 salariés doivent calculer et publier sur leur site Internet leur index de l’égalité femmes-hommes
+
+### Objectif :  
+Postuler à l'offre d'emploi en construisant ces livrables :
+
+### Livrables :  
+* Portfolio en ligne
+* Tableau de bord présentant une veille métier
+* Exprimer les besoins métier du cahier des charges
+* Créer le cahier des charges du portfolio
+* Présenter un diagramme de Gant du projet portfolio
+* Réaliser une formation "création de visualisation sur Power BI" en vidéo
+* Rédiger une procédure de "création de visualisation sur Power BI"
+
+
+## Livrables :   
+<p>
+  <a href="https://bastienleblanc.fr">
+    <img src="Images/portfolio-preview.png" width="350">
+  </a>
+    <a href="Livrables/besoins-metier.pdf">
+    <img src="Images/besoins-metier-preview.png" width="350">
+  </a>
+  </a>
+    <a href="Livrables/veille-metier.pdf">
+    <img src="Images/veille-preview.png" width="350">
+  </a>  
+</p>
