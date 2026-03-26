@@ -25,14 +25,14 @@ Postuler à l'offre d'emploi en construisant ces livrables :
 
 ## Livrables :   
 <p>
-  <a href="https://bastienleblanc.fr">
+  <a href="https://bastienleblanc.fr" title="Voir le portfolio">
     <img src="Images/portfolio-preview.png" width="350">
   </a>
-    <a href="Livrables/besoins-metier.pdf">
+    <a href="Livrables/besoins-metier.pdf" title="Voir besoin métier">
     <img src="Images/besoins-metier-preview.png" width="350">
   </a>
   </a>
-    <a href="Livrables/veille-metier.pdf">
+    <a href="Livrables/veille-metier.pdf" title="Voir veille métier">
     <img src="Images/veille-preview.png" width="350">
   </a>  
 </p>
