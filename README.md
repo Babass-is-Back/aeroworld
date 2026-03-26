@@ -14,13 +14,13 @@ Chaque année avant le 1er mars, les entreprises d’au moins 50 salariés doive
 Postuler à l'offre d'emploi en construisant ces livrables :
 
 ### Livrables :  
-* Portfolio en ligne
-* Tableau de bord présentant une veille métier
-* Exprimer les besoins métier du cahier des charges
+* Portfolio en ligne (URL)
+* Tableau de bord présentant une veille métier (Power BI)
+* Exprimer les besoins métier du cahier des charges (PDF)
 * Créer le cahier des charges du portfolio
-* Présenter un diagramme de Gant du projet portfolio
+* Présenter un diagramme de Gant du projet portfolio (Power BI)
 * Réaliser une formation "création de visualisation sur Power BI" en vidéo
-* Rédiger une procédure de "création de visualisation sur Power BI"
+* Rédiger une procédure de "création de visualisation sur Power BI" (PDF)
 
 
 ## Livrables :   
