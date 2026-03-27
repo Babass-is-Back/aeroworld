@@ -17,9 +17,9 @@ Postuler à l'offre d'emploi en construisant ces livrables :
 * Portfolio en ligne (URL)
 * Exprimer les besoins métier du cahier des charges (PDF)
 * Tableau de bord présentant une veille métier (Power BI)
-* Créer le cahier des charges du portfolio
+* Créer le cahier des charges du portfolio (PowerPoint)
 * Présenter un diagramme de Gant du projet portfolio (Power BI)
-* Réaliser une formation "création de visualisation sur Power BI" en vidéo
+* Réaliser une formation "création de visualisation sur Power BI" (Vidéo)
 * Rédiger une procédure de "création de visualisation sur Power BI" (PDF)
 
 
