@@ -39,6 +39,11 @@ Postuler à l'offre d'emploi en construisant ces livrables :
     <a href="Livrables/veille-metier.pdf" title="Voir veille métier">
     <img src="Images/veille-preview.png" width="350">
   </a>  
+  </a>
+    <p><strong>Gantt projet Portfolio : </stong></p>
+    <a href="Livrables/Gantt-portfolio.pdf" title="Voir le Gantt">
+    <img src="Images/gantt-preview.png" width="350">
+  </a>  
 </p>
 
 
