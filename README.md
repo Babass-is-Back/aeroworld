@@ -47,7 +47,7 @@ Postuler à l'offre d'emploi en construisant ces livrables :
   </a>
     <p><strong>Procédure Power BI : </stong></p>
     <a href="Livrables/procedure_powerbi.pdf" title="Voir la procédure">
-    <img src="Images/procedure-preview.png" width="350">
+    <img src="Images/procedure_preview.png" width="350">
   </a>  
 </p>
 
