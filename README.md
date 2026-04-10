@@ -50,7 +50,7 @@ Postuler à l'offre d'emploi en construisant ces livrables :
     <img src="Images/procedure_preview.png" width="350">
   </a> 
   <p><strong>Vidéo de formation Power BI : </stong></p>
-  <a href="[https://bastienleblanc.fr](https://www.loom.com/share/a4bbcd8f2a304023be58911894481162)" title="Voir la vidéo">
+  <a href="https://www.loom.com/share/a4bbcd8f2a304023be58911894481162" title="Voir la vidéo">
     <img src="Images/video-preview.png" width="350">
   </a>
 </p>
