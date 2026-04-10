@@ -48,14 +48,10 @@ Postuler à l'offre d'emploi en construisant ces livrables :
     <p><strong>Procédure Power BI : </stong></p>
     <a href="Livrables/procedure_powerbi.pdf" title="Voir la procédure">
     <img src="Images/procedure_preview.png" width="350">
- 
-  <p><strong>Vidéo de formation Power BI :</strong></p>
-    <a href="https://www.loom.com/share/a4bbcd8f2a304023be58911894481162"
-   title="Voir la vidéo"
-   target="_blank"
-   rel="noopener noreferrer">
-  <img src="Images/video-preview.png" width="350">
-</a>
+  </a> 
+      <p><strong>Vidéo de formation Power BI : </stong></p>
+      <a href="https://www.loom.com/share/a4bbcd8f2a304023be58911894481162" title="Voir la vidéo" target="_blank"> 
+      <img src="Images/video-preview.png" width="350"> </a>
 </p>
 
 
