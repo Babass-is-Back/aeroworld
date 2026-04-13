@@ -24,7 +24,7 @@ Postuler à l'offre d'emploi en construisant ces livrables :
 
 
 ## Livrables :   
-
+(Clic droit + ouvrir le lien dans un nouvel onglet)
 <p>
   <p><strong>Portfolio : </stong></p>
   <a href="https://bastienleblanc.fr" title="Voir le portfolio">
