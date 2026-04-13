@@ -40,6 +40,11 @@ Postuler à l'offre d'emploi en construisant ces livrables :
     <img src="Images/veille-preview.png" width="350">
   </a>  
   </a>
+    <p><strong>Cahier des charges : </stong></p>
+    <a href="Livrables/cdc-presentation.pdf" title="Voir le cahier des charges">
+    <img src="Images/cdc-preview.png" width="350">
+  </a>  
+  </a>
     <p><strong>Gantt projet Portfolio : </stong></p>
     <a href="Livrables/Gantt-portfolio.pdf" title="Voir le Gantt">
     <img src="Images/gantt-preview.png" width="350">
